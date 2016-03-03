@@ -1,0 +1,9 @@
+#global_nav {
+	margin-bottom: 0px !important;
+	padding-bottom: 29px !important;
+}
+
+.laylst ul {
+	_height: 0;
+	zoom: 1;
+}
